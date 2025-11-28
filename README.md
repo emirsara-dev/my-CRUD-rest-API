@@ -1,6 +1,6 @@
 # my-CRUD-rest-API
 
-A small CRUD REST API built with Node.js and Express.  
+A small CRUD REST API built with Node.js, Express, PostgreSQL, and Docker.  
 This repository demonstrates basic routing, simple data models, and typical CRUD endpoints for a resource.
 
 
